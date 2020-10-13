@@ -1,5 +1,13 @@
+# Programa creado por: M en C. Alan García Zambrano
+# 2020/10/12
+
 ###############################################################################
 ######################  PRÁCTICA 3 CONDICIONALES ##############################
+
+#En esta práctica apenderemos a utilizar condicionales if y else para la toma de 
+#decisiones en nuestros proyectos
+
+
 
 #Creamos los vectores para recolectar los datos del cada paciente
 nombre_paciente <- 'ALAN'      #char

@@ -13,7 +13,7 @@ if (4 > 5) {
   print('es falso')
 }
 
-
+################################################################################
 #Segunda condicional
 #Almacenamos dos variables en objetos a y b
 #No ejecutamos ELSE
@@ -25,7 +25,7 @@ if (a <= b){
   print('Si, es verdad')
 }
 
-
+################################################################################
 #Tercera condicional
 #Preguntamos si 5 es menor a 7 o si 4 es menor a 3
 #Debe cumplir por lo menos una condición
@@ -36,8 +36,9 @@ if ( 5 < 7 | 4 < 3  ){
   print('No es verdad')
 }
 
+################################################################################
+#Utilizamos un Ciclo For con un una condicional anidada en su estructura
 
-#Utilizamos un Ciclo For con if anidado en su esructura
 #Cada vez que el iterador realice una vuelta:
   #Comprueba que la variable actual 'iterador' sea mayor o igual a 4
   #De lo contrario ELSE demuestra que no es mayor

@@ -8,8 +8,8 @@
 #decisiones en nuestros proyectos
 
 
+#PASO 1. Creamos las variables para recolectar los datos del cada paciente
 
-#Creamos los vectores para recolectar los datos del cada paciente
 nombre_paciente <- 'ALAN'      #char
 edad_paciente <- 30L          #Integer
 sexo_paciente <- 'MASCULINO' #char
@@ -18,12 +18,14 @@ paciente_diabetes <- 'NO'   #char
 paciente_hipertenso <- 'NO' #char
 paciente_obesidad <- 'NO'   #char
 
-#Creamos los vectores para determinar sintomatología
+#PASO 2. Creamos las variables para determinar sintomatología
 temperatura <- 38.5         #Numeric
 dif_resp <- 'NO'             #char
 dolor_pecho <- 'SI'           #char
 paciente_condicion <- ''       #char
 
+
+#Paso3. Utilizamos las condicionales para determinar si debería ser hospitalizado o no
 
 if (edad_paciente >= 60 | paciente_diabetes == 'SI' | paciente_hipertenso == 'SI' ){
   print('##### DATOS CLÍNICOS DEL PACIENTE #####')

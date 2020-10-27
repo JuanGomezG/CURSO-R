@@ -57,3 +57,14 @@ for (iterador in 1:5){
 
 
 
+
+vector <- c(1,2,3,4,5)
+
+for(iterador in vector ){ #Condición
+  print("Hola")     #Lo que hace el programa
+}
+  
+
+
+
+

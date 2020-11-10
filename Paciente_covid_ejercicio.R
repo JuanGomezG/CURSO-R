@@ -1,3 +1,5 @@
+#Realizar la captura automática de 10 pacientes con un ciclo For
+#Recuperar datos de los pacientes inicales
 #Nombre, Edad, Sexo
 #Recuperar condiciones existentes
 #Obesidad, Hipertensión, Diabetes u otra condición asociada

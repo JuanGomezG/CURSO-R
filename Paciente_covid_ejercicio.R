@@ -26,7 +26,7 @@ paciente_saturacion_oxigeno <- c()
 paciente_dif_respiratoria <- c()
 paciente_condicion <- c()
 
-
+#Creamos el ciclo para realizar la captura de datos para cinco personas
 for (i in 1:5){
   
   nombre_paciente[i] <- readline(prompt = "Nombre del paciente: ")
@@ -34,19 +34,19 @@ for (i in 1:5){
   sexo_paciente[i] <- readline(prompt = "sexo del paciente: ")
   
   #Contestamos Sí o No
-  paciente_diabetes[i] <- readline(prompt = "El paciente es diabético: ")
-  paciente_hipertenso[i] <- readline(prompt = "El paciente es hipertenso: ")
-  paciente_obesidad[i] <- readline(prompt = "El paciente es obeso: ")
-  paciente_otra_cond[i] <- readline(prompt = "El paciente tiene alguna otra enfermedad: ")
+  paciente_diabetes[i] <- readline(prompt = "¿El paciente es diabético?: (SI/NO)")
+  paciente_hipertenso[i] <- readline(prompt = "¿El paciente es hipertenso?: (SI/NO) ")
+  paciente_obesidad[i] <- readline(prompt = "¿El paciente tiene obesidad?: (SI/NO)")
+  paciente_otra_cond[i] <- readline(prompt = "¿El paciente tiene alguna otra enfermedad?: (SI/NO) ")
   
   #Capturammos datos
   paciente_fiebre[i] <- readline(prompt = "Cuál es la temperatura del paciente?: ")
-  paciente_dolor_cabeza[i] <- readline(prompt = "El paciente tiene dolor de cabeza?: ")
-  paciente_tos[i] <- readline(prompt = "El paciente presenta tos?: ")
+  paciente_dolor_cabeza[i] <- readline(prompt = "¿El paciente tiene dolor de cabeza?: (SI/NO) ")
+  paciente_tos[i] <- readline(prompt = "¿El paciente presenta tos?: (SI/NO)")
   
-  paciente_dolor_torax <- readline(prompt = "El paciente tiene dolor de torax ?: ")
-  paciente_saturacion_oxigeno <- readline(prompt = "Cuál es la saturación de oxigeno ?: ")
-  paciente_dif_respiratoria <- readline(prompt = "El paciente tiene dificultad respiratoria ?: ")
+  paciente_dolor_torax[i] <- readline(prompt = "¿El paciente tiene dolor de torax ?: (SI/NO)")
+  paciente_saturacion_oxigeno[i] <- readline(prompt = "¿Cuál es la saturación de oxigeno ?: (SI/NO) ")
+  paciente_dif_respiratoria[i] <- readline(prompt = "¿El paciente tiene dificultad respiratoria ?: (SI/NO)")
   
   
   #Empezamos con el análisis de los datos obtenidos

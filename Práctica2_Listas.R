@@ -43,3 +43,5 @@ familia2 <- as.data.frame(familia2)
 familias <- rbind.fill(familia, familia2)
 
 
+
+

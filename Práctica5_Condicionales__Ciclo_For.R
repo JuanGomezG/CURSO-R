@@ -3,7 +3,6 @@
 
 #En esta práctica crearemos un sistema para detectar si alguien está enfermo de COVID
 
-
 #Creamos los vectores para recolectar los datos del cada paciente
 nombre_paciente <- c()
 edad_paciente <- c()
@@ -18,7 +17,6 @@ temperatura <- c()
 dif_resp <- c()
 dolor_pecho <- c()
 paciente_condicion <- c()
-
 
 
 for (i in 1:2){
@@ -37,7 +35,6 @@ for (i in 1:2){
   
   if (edad_paciente[i] >= 60 | paciente_diabetes[i] == 'SI' | paciente_hipertenso[i] == 'SI' ){
     
-    print(nombre_paciente[i])
     if(temperatura[i] >= 36.5){
       print('Paciente con fiebre')
     }

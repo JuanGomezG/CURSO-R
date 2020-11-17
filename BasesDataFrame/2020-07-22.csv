@@ -1,0 +1,236 @@
+"Date_reported","Country_code","Country","WHO_region","New_cases","Cumulative_cases","New_deaths","Cumulative_deaths"
+"2020-07-22","AF","Afghanistan","EMRO",112,35813,6,1194
+"2020-07-22","AL","Albania","EURO",119,4290,4,117
+"2020-07-22","DZ","Algeria","AFRO",587,24278,13,1100
+"2020-07-22","AS","American Samoa","WPRO",0,0,0,0
+"2020-07-22","AD","Andorra","EURO",0,884,0,52
+"2020-07-22","AO","Angola","AFRO",30,779,1,30
+"2020-07-22","AI","Anguilla","AMRO",0,3,0,0
+"2020-07-22","AG","Antigua and Barbuda","AMRO",0,76,0,3
+"2020-07-22","AR","Argentina","AMRO",4019,130774,145,2426
+"2020-07-22","AM","Armenia","EURO",439,35693,16,678
+"2020-07-22","AW","Aruba","AMRO",2,115,0,3
+"2020-07-22","AU","Australia","WPRO",359,12428,3,126
+"2020-07-22","AT","Austria","EURO",139,19818,0,710
+"2020-07-22","AZ","Azerbaijan","EURO",352,28242,13,376
+"2020-07-22","BS","Bahamas","AMRO",21,174,0,11
+"2020-07-22","BH","Bahrain","EMRO",380,37316,1,129
+"2020-07-22","BD","Bangladesh","SEARO",3057,210510,41,2709
+"2020-07-22","BB","Barbados","AMRO",1,106,0,7
+"2020-07-22","BY","Belarus","EURO",135,66348,4,507
+"2020-07-22","BE","Belgium","EURO",145,65073,1,9689
+"2020-07-22","BZ","Belize","AMRO",2,42,0,2
+"2020-07-22","BJ","Benin","AFRO",88,1690,3,34
+"2020-07-22","BM","Bermuda","AMRO",0,153,0,9
+"2020-07-22","BT","Bhutan","SEARO",2,92,0,0
+"2020-07-22","BO","Bolivia (Plurinational State of)","AMRO",1409,60991,67,2218
+"2020-07-22","BQ","Bonaire, Sint Eustatius and Saba","AMRO",0,10,0,0
+"2020-07-22","BA","Bosnia and Herzegovina","EURO",195,8786,5,261
+"2020-07-22","BW","Botswana","AFRO",0,522,0,1
+"2020-07-22","BR","Brazil","AMRO",20257,2118646,632,80120
+"2020-07-22","VG","British Virgin Islands","AMRO",0,8,0,1
+"2020-07-22","BN","Brunei Darussalam","WPRO",0,141,0,3
+"2020-07-22","BG","Bulgaria","EURO",325,9254,5,313
+"2020-07-22","BF","Burkina Faso","AFRO",0,1065,0,53
+"2020-07-22","BI","Burundi","AFRO",0,328,0,1
+"2020-07-22","CV","Cabo Verde","AFRO",36,2107,0,21
+"2020-07-22","KH","Cambodia","WPRO",26,197,0,0
+"2020-07-22","CM","Cameroon","AFRO",0,16522,0,382
+"2020-07-22","CA","Canada","AMRO",786,111124,6,8858
+"2020-07-22","KY","Cayman Islands","AMRO",0,203,0,1
+"2020-07-22","CF","Central African Republic","AFRO",76,4561,0,55
+"2020-07-22","TD","Chad","AFRO",0,889,0,75
+"2020-07-22","CL","Chile","AMRO",1654,334683,44,8677
+"2020-07-22","CN","China","WPRO",74,86226,2,4655
+"2020-07-22","CO","Colombia","AMRO",6727,204005,193,6929
+"2020-07-22","KM","Comoros","AFRO",3,337,0,7
+"2020-07-22","CG","Congo","AFRO",0,2851,0,50
+"2020-07-22","CK","Cook Islands","WPRO",0,0,0,0
+"2020-07-22","CR","Costa Rica","AMRO",420,11534,4,66
+"2020-07-22","CI","Côte d’Ivoire","AFRO",219,14531,1,93
+"2020-07-22","HR","Croatia","EURO",52,4422,0,122
+"2020-07-22","CU","Cuba","AMRO",3,2449,0,87
+"2020-07-22","CW","Curaçao","AMRO",0,28,0,1
+"2020-07-22","CY","Cyprus","EURO",2,1040,0,19
+"2020-07-22","CZ","Czechia","EURO",226,14324,1,360
+"2020-07-22","KP","Democratic People's Republic of Korea","SEARO",0,0,0,0
+"2020-07-22","CD","Democratic Republic of the Congo","AFRO",91,8533,2,195
+"2020-07-22","DK","Denmark","EURO",40,13302,0,611
+"2020-07-22","DJ","Djibouti","EMRO",7,5027,0,56
+"2020-07-22","DM","Dominica","AMRO",0,18,0,0
+"2020-07-22","DO","Dominican Republic","AMRO",841,54797,6,999
+"2020-07-22","EC","Ecuador","AMRO",1597,76217,48,5366
+"2020-07-22","EG","Egypt","EMRO",676,89078,47,4399
+"2020-07-22","SV","El Salvador","AMRO",375,12582,8,352
+"2020-07-22","GQ","Equatorial Guinea","AFRO",0,2350,0,41
+"2020-07-22","ER","Eritrea","AFRO",0,251,0,0
+"2020-07-22","EE","Estonia","EURO",1,2022,0,63
+"2020-07-22","SZ","Eswatini","AFRO",68,1894,1,24
+"2020-07-22","ET","Ethiopia","AFRO",561,11072,7,180
+"2020-07-22","FK","Falkland Islands (Malvinas)","AMRO",0,13,0,0
+"2020-07-22","FO","Faroe Islands","EURO",0,191,0,0
+"2020-07-22","FJ","Fiji","WPRO",0,27,0,0
+"2020-07-22","FI","Finland","EURO",11,7351,0,328
+"2020-07-22","FR","France","EURO",454,166511,-1,30053
+"2020-07-22","GF","French Guiana","AMRO",106,6851,1,39
+"2020-07-22","PF","French Polynesia","WPRO",0,62,0,0
+"2020-07-22","GA","Gabon","AFRO",312,6433,0,46
+"2020-07-22","GM","Gambia","AFRO",20,132,1,5
+"2020-07-22","GE","Georgia","EURO",24,1073,0,16
+"2020-07-22","DE","Germany","EURO",454,202799,5,9095
+"2020-07-22","GH","Ghana","AFRO",559,28989,0,153
+"2020-07-22","GI","Gibraltar","EURO",0,180,0,0
+"2020-07-22","GR","Greece","EURO",36,4048,2,197
+"2020-07-22","GL","Greenland","EURO",0,13,0,0
+"2020-07-22","GD","Grenada","AMRO",0,23,0,0
+"2020-07-22","GP","Guadeloupe","AMRO",0,195,0,14
+"2020-07-22","GU","Guam","WPRO",8,319,0,5
+"2020-07-22","GT","Guatemala","AMRO",1190,40229,29,1531
+"2020-07-22","GG","Guernsey","EURO",0,252,0,13
+"2020-07-22","GN","Guinea","AFRO",35,6625,1,41
+"2020-07-22","GW","Guinea-Bissau","AFRO",0,1954,0,26
+"2020-07-22","GY","Guyana","AMRO",1,337,0,19
+"2020-07-22","HT","Haiti","AMRO",37,7100,5,151
+"2020-07-22","VA","Holy See","EURO",0,12,0,0
+"2020-07-22","HN","Honduras","AMRO",776,34611,35,935
+"2020-07-22","HU","Hungary","EURO",19,4366,0,596
+"2020-07-22","IS","Iceland","EURO",0,1839,0,10
+"2020-07-22","IN","India","SEARO",37724,1192915,648,28732
+"2020-07-22","ID","Indonesia","SEARO",1655,89869,81,4320
+"2020-07-22","IR","Iran (Islamic Republic of)","EMRO",2625,278827,229,14634
+"2020-07-22","IQ","Iraq","EMRO",2466,97159,81,3950
+"2020-07-22","IE","Ireland","EURO",36,25802,0,1753
+"2020-07-22","IM","Isle of Man","EURO",0,336,0,24
+"2020-07-22","IL","Israel","EURO",2006,54561,9,457
+"2020-07-22","IT","Italy","EURO",128,244752,15,35073
+"2020-07-22","JM","Jamaica","AMRO",19,809,0,10
+"2020-07-22","JP","Japan","WPRO",567,26303,1,989
+"2020-07-22","JE","Jersey","EURO",0,331,0,31
+"2020-07-22","JO","Jordan","EMRO",46,1181,0,11
+"2020-07-22","KZ","Kazakhstan","EURO",1646,76799,0,585
+"2020-07-22","KE","Kenya","AFRO",397,14168,12,250
+"2020-07-22","KI","Kiribati","WPRO",0,0,0,0
+"2020-07-22","XK","Kosovo[1]","EURO",168,6002,5,134
+"2020-07-22","KW","Kuwait","EMRO",671,60434,4,412
+"2020-07-22","KG","Kyrgyzstan","EURO",1108,29359,44,678
+"2020-07-22","LA","Lao People's Democratic Republic","WPRO",0,19,0,0
+"2020-07-22","LV","Latvia","EURO",1,1193,0,31
+"2020-07-22","LB","Lebanon","EMRO",75,2980,0,41
+"2020-07-22","LS","Lesotho","AFRO",0,359,0,6
+"2020-07-22","LR","Liberia","AFRO",1,1108,0,70
+"2020-07-22","LY","Libya","EMRO",108,2088,1,50
+"2020-07-22","LI","Liechtenstein","EURO",0,87,0,1
+"2020-07-22","LT","Lithuania","EURO",2,1949,0,80
+"2020-07-22","LU","Luxembourg","EURO",120,5725,0,111
+"2020-07-22","MG","Madagascar","AFRO",395,7548,3,65
+"2020-07-22","MW","Malawi","AFRO",104,3149,7,71
+"2020-07-22","MY","Malaysia","WPRO",15,8815,0,123
+"2020-07-22","MV","Maldives","SEARO",45,3044,0,15
+"2020-07-22","ML","Mali","AFRO",2,2477,1,122
+"2020-07-22","MT","Malta","EURO",0,675,0,9
+"2020-07-22","MH","Marshall Islands","WPRO",0,0,0,0
+"2020-07-22","MQ","Martinique","AMRO",0,262,0,15
+"2020-07-22","MR","Mauritania","AFRO",62,5985,0,155
+"2020-07-22","MU","Mauritius","AFRO",0,343,0,10
+"2020-07-22","YT","Mayotte","AFRO",16,2824,0,38
+"2020-07-22","MX","Mexico","AMRO",5172,349396,301,39485
+"2020-07-22","FM","Micronesia (Federated States of)","WPRO",0,0,0,0
+"2020-07-22","MC","Monaco","EURO",2,78,0,1
+"2020-07-22","MN","Mongolia","WPRO",0,287,0,0
+"2020-07-22","ME","Montenegro","EURO",97,2567,4,39
+"2020-07-22","MS","Montserrat","AMRO",0,12,0,1
+"2020-07-22","MA","Morocco","EMRO",180,17742,4,280
+"2020-07-22","MZ","Mozambique","AFRO",29,1536,0,11
+"2020-07-22","MM","Myanmar","SEARO",0,341,0,6
+"2020-07-22",NA,"Namibia","AFRO",22,1366,3,7
+"2020-07-22","NR","Nauru","WPRO",0,0,0,0
+"2020-07-22","NP","Nepal","SEARO",150,17994,0,40
+"2020-07-22","NL","Netherlands","EURO",163,52073,0,6136
+"2020-07-22","NC","New Caledonia","WPRO",0,22,0,0
+"2020-07-22","NZ","New Zealand","WPRO",0,1205,0,22
+"2020-07-22","NI","Nicaragua","AMRO",292,3004,9,108
+"2020-07-22","NE","Niger","AFRO",3,1108,0,69
+"2020-07-22","NG","Nigeria","AFRO",576,37801,4,805
+"2020-07-22","NU","Niue","WPRO",0,0,0,0
+"2020-07-22","MK","North Macedonia","EURO",163,9412,0,432
+"2020-07-22","MP","Northern Mariana Islands (Commonwealth of the)","WPRO",1,38,0,2
+"2020-07-22","NO","Norway","EURO",10,9038,0,255
+"2020-07-22","PS","occupied Palestinian territory, including east Jerusalem","EMRO",403,10923,1,67
+"2020-07-22","OM","Oman","EMRO",1487,69887,11,337
+"2020-07-22"," ","Other","Other",0,741,0,13
+"2020-07-22","PK","Pakistan","EMRO",1332,267428,38,5677
+"2020-07-22","PW","Palau","WPRO",0,0,0,0
+"2020-07-22","PA","Panama","AMRO",958,54426,31,1127
+"2020-07-22","PG","Papua New Guinea","WPRO",10,27,0,0
+"2020-07-22","PY","Paraguay","AMRO",27,3748,2,33
+"2020-07-22","PE","Peru","AMRO",4091,357681,197,13384
+"2020-07-22","PH","Philippines","WPRO",1866,70764,2,1837
+"2020-07-22","PN","Pitcairn Islands","WPRO",0,0,0,0
+"2020-07-22","PL","Poland","EURO",399,40782,9,1636
+"2020-07-22","PT","Portugal","EURO",127,48898,6,1697
+"2020-07-22","PR","Puerto Rico","AMRO",479,12940,0,180
+"2020-07-22","QA","Qatar","EMRO",393,107430,1,160
+"2020-07-22","KR","Republic of Korea","WPRO",63,13879,1,297
+"2020-07-22","MD","Republic of Moldova","EURO",327,21442,11,708
+"2020-07-22","RE","Réunion","AFRO",8,639,0,3
+"2020-07-22","RO","Romania","EURO",994,39133,36,2074
+"2020-07-22","RU","Russian Federation","EURO",5862,789190,165,12745
+"2020-07-22","RW","Rwanda","AFRO",26,1655,0,5
+"2020-07-22","BL","Saint Barthélemy","AMRO",0,6,0,0
+"2020-07-22","SH","Saint Helena","AFRO",0,0,0,0
+"2020-07-22","KN","Saint Kitts and Nevis","AMRO",0,17,0,0
+"2020-07-22","LC","Saint Lucia","AMRO",0,23,0,0
+"2020-07-22","MF","Saint Martin","AMRO",0,46,0,3
+"2020-07-22","PM","Saint Pierre and Miquelon","AMRO",0,4,0,0
+"2020-07-22","VC","Saint Vincent and the Grenadines","AMRO",0,50,0,0
+"2020-07-22","WS","Samoa","WPRO",0,0,0,0
+"2020-07-22","SM","San Marino","EURO",0,716,0,42
+"2020-07-22","ST","Sao Tome and Principe","AFRO",0,746,0,14
+"2020-07-22","SA","Saudi Arabia","EMRO",2476,255825,34,2557
+"2020-07-22","SN","Senegal","AFRO",37,8985,4,174
+"2020-07-22","RS","Serbia","EURO",352,21605,9,491
+"2020-07-22","SC","Seychelles","AFRO",0,108,0,0
+"2020-07-22","SL","Sierra Leone","AFRO",16,1727,0,66
+"2020-07-22","SG","Singapore","WPRO",398,48434,0,27
+"2020-07-22","SX","Sint Maarten","AMRO",0,79,0,15
+"2020-07-22","SK","Slovakia","EURO",41,2021,0,28
+"2020-07-22","SI","Slovenia","EURO",24,1977,0,111
+"2020-07-22","SB","Solomon Islands","WPRO",0,0,0,0
+"2020-07-22","SO","Somalia","EMRO",5,3135,0,93
+"2020-07-22","ZA","South Africa","AFRO",8170,381798,195,5368
+"2020-07-22","SS","South Sudan","AFRO",0,2211,0,45
+"2020-07-22","ES","Spain","EURO",1560,272750,3,30017
+"2020-07-22","LK","Sri Lanka","SEARO",0,2730,0,11
+"2020-07-22","SD","Sudan","EMRO",135,11127,13,706
+"2020-07-22","SR","Suriname","AMRO",50,1079,0,21
+"2020-07-22","SE","Sweden","EURO",226,74766,7,5710
+"2020-07-22","CH","Switzerland","EURO",108,33655,3,1690
+"2020-07-22","SY","Syrian Arab Republic","EMRO",18,540,2,31
+"2020-07-22","TJ","Tajikistan","EURO",46,6967,0,57
+"2020-07-22","TH","Thailand","SEARO",6,3261,0,58
+"2020-07-22","GB","The United Kingdom","EURO",793,296912,25,41030
+"2020-07-22","TL","Timor-Leste","SEARO",0,24,0,0
+"2020-07-22","TG","Togo","AFRO",7,790,0,15
+"2020-07-22","TK","Tokelau","WPRO",0,0,0,0
+"2020-07-22","TO","Tonga","WPRO",0,0,0,0
+"2020-07-22","TT","Trinidad and Tobago","AMRO",0,137,0,8
+"2020-07-22","TN","Tunisia","EMRO",5,1394,0,50
+"2020-07-22","TR","Turkey","EURO",928,221500,18,5526
+"2020-07-22","TM","Turkmenistan","EURO",0,0,0,0
+"2020-07-22","TC","Turks and Caicos Islands","AMRO",0,81,0,2
+"2020-07-22","TV","Tuvalu","WPRO",0,0,0,0
+"2020-07-22","UG","Uganda","AFRO",3,1072,0,0
+"2020-07-22","UA","Ukraine","EURO",829,60995,16,1534
+"2020-07-22","AE","United Arab Emirates","EMRO",305,57498,1,341
+"2020-07-22","TZ","United Republic of Tanzania","AFRO",0,509,0,21
+"2020-07-22","US","United States of America","AMRO",57276,3805524,473,140437
+"2020-07-22","VI","United States Virgin Islands","AMRO",11,308,0,6
+"2020-07-22","UY","Uruguay","AMRO",10,1064,0,33
+"2020-07-22","UZ","Uzbekistan","EURO",581,18171,4,96
+"2020-07-22","VU","Vanuatu","WPRO",0,0,0,0
+"2020-07-22","VE","Venezuela (Bolivarian Republic of)","AMRO",443,12334,4,116
+"2020-07-22","VN","Viet Nam","WPRO",17,401,0,0
+"2020-07-22","WF","Wallis and Futuna","WPRO",0,0,0,0
+"2020-07-22","YE","Yemen","EMRO",10,1633,9,457
+"2020-07-22","ZM","Zambia","AFRO",0,3326,0,128
+"2020-07-22","ZW","Zimbabwe","AFRO",107,1820,0,26

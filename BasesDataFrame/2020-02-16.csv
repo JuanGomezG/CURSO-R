@@ -1,0 +1,236 @@
+"Date_reported","Country_code","Country","WHO_region","New_cases","Cumulative_cases","New_deaths","Cumulative_deaths"
+"2020-02-16","AF","Afghanistan","EMRO",0,0,0,0
+"2020-02-16","AL","Albania","EURO",0,0,0,0
+"2020-02-16","DZ","Algeria","AFRO",0,0,0,0
+"2020-02-16","AS","American Samoa","WPRO",0,0,0,0
+"2020-02-16","AD","Andorra","EURO",0,0,0,0
+"2020-02-16","AO","Angola","AFRO",0,0,0,0
+"2020-02-16","AI","Anguilla","AMRO",0,0,0,0
+"2020-02-16","AG","Antigua and Barbuda","AMRO",0,0,0,0
+"2020-02-16","AR","Argentina","AMRO",0,0,0,0
+"2020-02-16","AM","Armenia","EURO",0,0,0,0
+"2020-02-16","AW","Aruba","AMRO",0,0,0,0
+"2020-02-16","AU","Australia","WPRO",0,19,0,0
+"2020-02-16","AT","Austria","EURO",0,0,0,0
+"2020-02-16","AZ","Azerbaijan","EURO",0,0,0,0
+"2020-02-16","BS","Bahamas","AMRO",0,0,0,0
+"2020-02-16","BH","Bahrain","EMRO",0,0,0,0
+"2020-02-16","BD","Bangladesh","SEARO",0,0,0,0
+"2020-02-16","BB","Barbados","AMRO",0,0,0,0
+"2020-02-16","BY","Belarus","EURO",0,0,0,0
+"2020-02-16","BE","Belgium","EURO",0,1,0,0
+"2020-02-16","BZ","Belize","AMRO",0,0,0,0
+"2020-02-16","BJ","Benin","AFRO",0,0,0,0
+"2020-02-16","BM","Bermuda","AMRO",0,0,0,0
+"2020-02-16","BT","Bhutan","SEARO",0,0,0,0
+"2020-02-16","BO","Bolivia (Plurinational State of)","AMRO",0,0,0,0
+"2020-02-16","BQ","Bonaire, Sint Eustatius and Saba","AMRO",0,0,0,0
+"2020-02-16","BA","Bosnia and Herzegovina","EURO",0,0,0,0
+"2020-02-16","BW","Botswana","AFRO",0,0,0,0
+"2020-02-16","BR","Brazil","AMRO",0,0,0,0
+"2020-02-16","VG","British Virgin Islands","AMRO",0,0,0,0
+"2020-02-16","BN","Brunei Darussalam","WPRO",0,0,0,0
+"2020-02-16","BG","Bulgaria","EURO",0,0,0,0
+"2020-02-16","BF","Burkina Faso","AFRO",0,0,0,0
+"2020-02-16","BI","Burundi","AFRO",0,0,0,0
+"2020-02-16","CV","Cabo Verde","AFRO",0,0,0,0
+"2020-02-16","KH","Cambodia","WPRO",0,5,0,0
+"2020-02-16","CM","Cameroon","AFRO",0,0,0,0
+"2020-02-16","CA","Canada","AMRO",0,11,0,0
+"2020-02-16","KY","Cayman Islands","AMRO",0,0,0,0
+"2020-02-16","CF","Central African Republic","AFRO",0,0,0,0
+"2020-02-16","TD","Chad","AFRO",0,0,0,0
+"2020-02-16","CL","Chile","AMRO",0,0,0,0
+"2020-02-16","CN","China","WPRO",2008,68588,142,1666
+"2020-02-16","CO","Colombia","AMRO",0,0,0,0
+"2020-02-16","KM","Comoros","AFRO",0,0,0,0
+"2020-02-16","CG","Congo","AFRO",0,0,0,0
+"2020-02-16","CK","Cook Islands","WPRO",0,0,0,0
+"2020-02-16","CR","Costa Rica","AMRO",0,0,0,0
+"2020-02-16","CI","Côte d’Ivoire","AFRO",0,0,0,0
+"2020-02-16","HR","Croatia","EURO",0,0,0,0
+"2020-02-16","CU","Cuba","AMRO",0,0,0,0
+"2020-02-16","CW","Curaçao","AMRO",0,0,0,0
+"2020-02-16","CY","Cyprus","EURO",0,0,0,0
+"2020-02-16","CZ","Czechia","EURO",0,0,0,0
+"2020-02-16","KP","Democratic People's Republic of Korea","SEARO",0,0,0,0
+"2020-02-16","CD","Democratic Republic of the Congo","AFRO",0,0,0,0
+"2020-02-16","DK","Denmark","EURO",0,0,0,0
+"2020-02-16","DJ","Djibouti","EMRO",0,0,0,0
+"2020-02-16","DM","Dominica","AMRO",0,0,0,0
+"2020-02-16","DO","Dominican Republic","AMRO",0,0,0,0
+"2020-02-16","EC","Ecuador","AMRO",0,0,0,0
+"2020-02-16","EG","Egypt","EMRO",0,5,0,0
+"2020-02-16","SV","El Salvador","AMRO",0,0,0,0
+"2020-02-16","GQ","Equatorial Guinea","AFRO",0,0,0,0
+"2020-02-16","ER","Eritrea","AFRO",0,0,0,0
+"2020-02-16","EE","Estonia","EURO",0,0,0,0
+"2020-02-16","SZ","Eswatini","AFRO",0,0,0,0
+"2020-02-16","ET","Ethiopia","AFRO",0,0,0,0
+"2020-02-16","FK","Falkland Islands (Malvinas)","AMRO",0,0,0,0
+"2020-02-16","FO","Faroe Islands","EURO",0,0,0,0
+"2020-02-16","FJ","Fiji","WPRO",0,0,0,0
+"2020-02-16","FI","Finland","EURO",0,1,0,0
+"2020-02-16","FR","France","EURO",0,11,0,1
+"2020-02-16","GF","French Guiana","AMRO",0,0,0,0
+"2020-02-16","PF","French Polynesia","WPRO",0,0,0,0
+"2020-02-16","GA","Gabon","AFRO",0,0,0,0
+"2020-02-16","GM","Gambia","AFRO",0,0,0,0
+"2020-02-16","GE","Georgia","EURO",0,0,0,0
+"2020-02-16","DE","Germany","EURO",0,15,0,0
+"2020-02-16","GH","Ghana","AFRO",0,0,0,0
+"2020-02-16","GI","Gibraltar","EURO",0,0,0,0
+"2020-02-16","GR","Greece","EURO",0,0,0,0
+"2020-02-16","GL","Greenland","EURO",0,0,0,0
+"2020-02-16","GD","Grenada","AMRO",0,0,0,0
+"2020-02-16","GP","Guadeloupe","AMRO",0,0,0,0
+"2020-02-16","GU","Guam","WPRO",0,0,0,0
+"2020-02-16","GT","Guatemala","AMRO",0,0,0,0
+"2020-02-16","GG","Guernsey","EURO",0,0,0,0
+"2020-02-16","GN","Guinea","AFRO",0,0,0,0
+"2020-02-16","GW","Guinea-Bissau","AFRO",0,0,0,0
+"2020-02-16","GY","Guyana","AMRO",0,0,0,0
+"2020-02-16","HT","Haiti","AMRO",0,0,0,0
+"2020-02-16","VA","Holy See","EURO",0,0,0,0
+"2020-02-16","HN","Honduras","AMRO",0,0,0,0
+"2020-02-16","HU","Hungary","EURO",0,0,0,0
+"2020-02-16","IS","Iceland","EURO",0,0,0,0
+"2020-02-16","IN","India","SEARO",0,7,0,0
+"2020-02-16","ID","Indonesia","SEARO",0,0,0,0
+"2020-02-16","IR","Iran (Islamic Republic of)","EMRO",0,0,0,0
+"2020-02-16","IQ","Iraq","EMRO",0,0,0,0
+"2020-02-16","IE","Ireland","EURO",0,0,0,0
+"2020-02-16","IM","Isle of Man","EURO",0,0,0,0
+"2020-02-16","IL","Israel","EURO",0,0,0,0
+"2020-02-16","IT","Italy","EURO",0,3,0,0
+"2020-02-16","JM","Jamaica","AMRO",0,0,0,0
+"2020-02-16","JP","Japan","WPRO",6,63,0,1
+"2020-02-16","JE","Jersey","EURO",0,0,0,0
+"2020-02-16","JO","Jordan","EMRO",0,0,0,0
+"2020-02-16","KZ","Kazakhstan","EURO",0,0,0,0
+"2020-02-16","KE","Kenya","AFRO",0,0,0,0
+"2020-02-16","KI","Kiribati","WPRO",0,0,0,0
+"2020-02-16","XK","Kosovo[1]","EURO",0,0,0,0
+"2020-02-16","KW","Kuwait","EMRO",0,0,0,0
+"2020-02-16","KG","Kyrgyzstan","EURO",0,0,0,0
+"2020-02-16","LA","Lao People's Democratic Republic","WPRO",0,0,0,0
+"2020-02-16","LV","Latvia","EURO",0,0,0,0
+"2020-02-16","LB","Lebanon","EMRO",0,0,0,0
+"2020-02-16","LS","Lesotho","AFRO",0,0,0,0
+"2020-02-16","LR","Liberia","AFRO",0,0,0,0
+"2020-02-16","LY","Libya","EMRO",0,0,0,0
+"2020-02-16","LI","Liechtenstein","EURO",0,0,0,0
+"2020-02-16","LT","Lithuania","EURO",0,0,0,0
+"2020-02-16","LU","Luxembourg","EURO",0,0,0,0
+"2020-02-16","MG","Madagascar","AFRO",0,0,0,0
+"2020-02-16","MW","Malawi","AFRO",0,0,0,0
+"2020-02-16","MY","Malaysia","WPRO",0,26,0,0
+"2020-02-16","MV","Maldives","SEARO",0,0,0,0
+"2020-02-16","ML","Mali","AFRO",0,0,0,0
+"2020-02-16","MT","Malta","EURO",0,0,0,0
+"2020-02-16","MH","Marshall Islands","WPRO",0,0,0,0
+"2020-02-16","MQ","Martinique","AMRO",0,0,0,0
+"2020-02-16","MR","Mauritania","AFRO",0,0,0,0
+"2020-02-16","MU","Mauritius","AFRO",0,0,0,0
+"2020-02-16","YT","Mayotte","AFRO",0,0,0,0
+"2020-02-16","MX","Mexico","AMRO",0,0,0,0
+"2020-02-16","FM","Micronesia (Federated States of)","WPRO",0,0,0,0
+"2020-02-16","MC","Monaco","EURO",0,0,0,0
+"2020-02-16","MN","Mongolia","WPRO",0,0,0,0
+"2020-02-16","ME","Montenegro","EURO",0,0,0,0
+"2020-02-16","MS","Montserrat","AMRO",0,0,0,0
+"2020-02-16","MA","Morocco","EMRO",0,0,0,0
+"2020-02-16","MZ","Mozambique","AFRO",0,0,0,0
+"2020-02-16","MM","Myanmar","SEARO",0,0,0,0
+"2020-02-16",NA,"Namibia","AFRO",0,0,0,0
+"2020-02-16","NR","Nauru","WPRO",0,0,0,0
+"2020-02-16","NP","Nepal","SEARO",0,5,0,0
+"2020-02-16","NL","Netherlands","EURO",0,0,0,0
+"2020-02-16","NC","New Caledonia","WPRO",0,0,0,0
+"2020-02-16","NZ","New Zealand","WPRO",0,0,0,0
+"2020-02-16","NI","Nicaragua","AMRO",0,0,0,0
+"2020-02-16","NE","Niger","AFRO",0,0,0,0
+"2020-02-16","NG","Nigeria","AFRO",0,0,0,0
+"2020-02-16","NU","Niue","WPRO",0,0,0,0
+"2020-02-16","MK","North Macedonia","EURO",0,0,0,0
+"2020-02-16","MP","Northern Mariana Islands (Commonwealth of the)","WPRO",0,0,0,0
+"2020-02-16","NO","Norway","EURO",0,0,0,0
+"2020-02-16","PS","occupied Palestinian territory, including east Jerusalem","EMRO",0,0,0,0
+"2020-02-16","OM","Oman","EMRO",0,0,0,0
+"2020-02-16"," ","Other","Other",70,359,0,0
+"2020-02-16","PK","Pakistan","EMRO",0,0,0,0
+"2020-02-16","PW","Palau","WPRO",0,0,0,0
+"2020-02-16","PA","Panama","AMRO",0,0,0,0
+"2020-02-16","PG","Papua New Guinea","WPRO",0,0,0,0
+"2020-02-16","PY","Paraguay","AMRO",0,0,0,0
+"2020-02-16","PE","Peru","AMRO",0,0,0,0
+"2020-02-16","PH","Philippines","WPRO",0,7,0,1
+"2020-02-16","PN","Pitcairn Islands","WPRO",0,0,0,0
+"2020-02-16","PL","Poland","EURO",0,0,0,0
+"2020-02-16","PT","Portugal","EURO",0,0,0,0
+"2020-02-16","PR","Puerto Rico","AMRO",0,0,0,0
+"2020-02-16","QA","Qatar","EMRO",0,0,0,0
+"2020-02-16","KR","Republic of Korea","WPRO",1,33,0,0
+"2020-02-16","MD","Republic of Moldova","EURO",0,0,0,0
+"2020-02-16","RE","Réunion","AFRO",0,0,0,0
+"2020-02-16","RO","Romania","EURO",0,0,0,0
+"2020-02-16","RU","Russian Federation","EURO",0,2,0,0
+"2020-02-16","RW","Rwanda","AFRO",0,0,0,0
+"2020-02-16","BL","Saint Barthélemy","AMRO",0,0,0,0
+"2020-02-16","SH","Saint Helena","AFRO",0,0,0,0
+"2020-02-16","KN","Saint Kitts and Nevis","AMRO",0,0,0,0
+"2020-02-16","LC","Saint Lucia","AMRO",0,0,0,0
+"2020-02-16","MF","Saint Martin","AMRO",0,0,0,0
+"2020-02-16","PM","Saint Pierre and Miquelon","AMRO",0,0,0,0
+"2020-02-16","VC","Saint Vincent and the Grenadines","AMRO",0,0,0,0
+"2020-02-16","WS","Samoa","WPRO",0,0,0,0
+"2020-02-16","SM","San Marino","EURO",0,0,0,0
+"2020-02-16","ST","Sao Tome and Principe","AFRO",0,0,0,0
+"2020-02-16","SA","Saudi Arabia","EMRO",0,0,0,0
+"2020-02-16","SN","Senegal","AFRO",0,0,0,0
+"2020-02-16","RS","Serbia","EURO",0,0,0,0
+"2020-02-16","SC","Seychelles","AFRO",0,0,0,0
+"2020-02-16","SL","Sierra Leone","AFRO",0,0,0,0
+"2020-02-16","SG","Singapore","WPRO",3,79,0,0
+"2020-02-16","SX","Sint Maarten","AMRO",0,0,0,0
+"2020-02-16","SK","Slovakia","EURO",0,0,0,0
+"2020-02-16","SI","Slovenia","EURO",0,0,0,0
+"2020-02-16","SB","Solomon Islands","WPRO",0,0,0,0
+"2020-02-16","SO","Somalia","EMRO",0,0,0,0
+"2020-02-16","ZA","South Africa","AFRO",0,0,0,0
+"2020-02-16","SS","South Sudan","AFRO",0,0,0,0
+"2020-02-16","ES","Spain","EURO",0,2,0,1
+"2020-02-16","LK","Sri Lanka","SEARO",0,5,0,0
+"2020-02-16","SD","Sudan","EMRO",0,0,0,0
+"2020-02-16","SR","Suriname","AMRO",0,0,0,0
+"2020-02-16","SE","Sweden","EURO",0,1,0,0
+"2020-02-16","CH","Switzerland","EURO",0,0,0,0
+"2020-02-16","SY","Syrian Arab Republic","EMRO",0,0,0,0
+"2020-02-16","TJ","Tajikistan","EURO",0,0,0,0
+"2020-02-16","TH","Thailand","SEARO",0,38,0,0
+"2020-02-16","GB","The United Kingdom","EURO",0,10,0,0
+"2020-02-16","TL","Timor-Leste","SEARO",0,0,0,0
+"2020-02-16","TG","Togo","AFRO",0,0,0,0
+"2020-02-16","TK","Tokelau","WPRO",0,0,0,0
+"2020-02-16","TO","Tonga","WPRO",0,0,0,0
+"2020-02-16","TT","Trinidad and Tobago","AMRO",0,0,0,0
+"2020-02-16","TN","Tunisia","EMRO",0,0,0,0
+"2020-02-16","TR","Turkey","EURO",0,0,0,0
+"2020-02-16","TM","Turkmenistan","EURO",0,0,0,0
+"2020-02-16","TC","Turks and Caicos Islands","AMRO",0,0,0,0
+"2020-02-16","TV","Tuvalu","WPRO",0,0,0,0
+"2020-02-16","UG","Uganda","AFRO",0,0,0,0
+"2020-02-16","UA","Ukraine","EURO",0,0,0,0
+"2020-02-16","AE","United Arab Emirates","EMRO",1,13,0,0
+"2020-02-16","TZ","United Republic of Tanzania","AFRO",0,0,0,0
+"2020-02-16","US","United States of America","AMRO",0,19,0,0
+"2020-02-16","VI","United States Virgin Islands","AMRO",0,0,0,0
+"2020-02-16","UY","Uruguay","AMRO",0,0,0,0
+"2020-02-16","UZ","Uzbekistan","EURO",0,0,0,0
+"2020-02-16","VU","Vanuatu","WPRO",0,0,0,0
+"2020-02-16","VE","Venezuela (Bolivarian Republic of)","AMRO",0,0,0,0
+"2020-02-16","VN","Viet Nam","WPRO",0,20,0,0
+"2020-02-16","WF","Wallis and Futuna","WPRO",0,0,0,0
+"2020-02-16","YE","Yemen","EMRO",0,0,0,0
+"2020-02-16","ZM","Zambia","AFRO",0,0,0,0
+"2020-02-16","ZW","Zimbabwe","AFRO",0,0,0,0

@@ -2,7 +2,8 @@ library("tidyverse")
 #Cargamos el DataFrame con url Data.world
 billboards <- read.csv("https://query.data.world/s/ujgyeerihykzmkhsvgq3kgs5bzrg6g")
 
-billboards <- read.csv("C:\\Users\\alan2\\Downloads\\billboard_2000_2018_spotify_lyrics.csv")
+archivo <- file.choose()
+billboards <- read.csv(archivo)
 
 
 # Quitamos los NA
@@ -18,7 +19,6 @@ billboards_filtrado <- filter(billboards_filtrado, year >2015 & year<2019)
 billboards_filtrado <- rename(billboards, date, year, title, artist, weeks, rank, genre)
 
 #Método 2 (En una sóla instrucción con pipes %>%  )
-
 billboards_filtrado <- billboards %>% 
   select(date, year, title, artist, weeks, rank, genre, broad_genre) %>% 
   filter(year >2015 & year<2019) %>% 
@@ -27,7 +27,6 @@ billboards_filtrado <- billboards %>%
 
 #Eliminamos columnas individualmente
 billboards_filtrado$b_genero <- NULL
-
 
 #OBTENER EL TOTAL DE DÍAS TRANSCURRIDOS
 #día actual
@@ -50,13 +49,17 @@ billboards_filtrado <- billboards_filtrado %>%
   mutate(artista = str_to_title(artista )  )
 
 
+
+############################################
 #Seleccionamos para agrupar los que necesitamos
 
 billboards_ranking <- billboards_filtrado %>% select(año, artista, semanas, ranking) 
 
 billboards_ranking <- billboards_ranking %>% 
   group_by(año, artista) %>% 
-  summarise(conteo = n()) 
+  summarise(conteo = n()) %>% 
+  arrange(artista, desc(conteo))
+
 
 
 
@@ -66,5 +69,6 @@ str_to_title(billboards_filtrado$artista)
 tolower(billboards_filtrado$artista)
 #Mayúsculas
 toupper(billboards_filtrado$artista)
+
 
 

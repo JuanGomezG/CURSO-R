@@ -28,5 +28,6 @@ paises_list <- list()
 for (i in 1:length(files)){
   paises_list[[i]] <- read.csv(files[i])
 }
+
 paises_data <- rbind.fill(paises_list)
 

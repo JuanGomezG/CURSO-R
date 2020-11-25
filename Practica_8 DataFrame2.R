@@ -5,6 +5,7 @@ billboards <- read.csv("C:\\Users\\alan2\\Downloads\\billboard_2000_2018_spotify
 
 billboards <- read.csv("C:\\Users\\alan2\\Downloads\\albumlist.csv")
 
+
 # Quitamos los NA
 billboards$year[is.na(billboards$year)] <- 2018L
 
